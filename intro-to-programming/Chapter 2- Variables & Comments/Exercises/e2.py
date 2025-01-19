@@ -1,0 +1,1 @@
+print('Danielle Steel once said, "Some things in life are worth waiting for."' )
